@@ -1,0 +1,6 @@
+{
+  "name": "Currently",
+  "description": "A personalized RSS magazine and news edition reader with concise AI digests, offline Room caching, and sleek slide navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

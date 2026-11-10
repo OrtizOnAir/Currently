@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Currently</string>
+    <string name="masthead_title">CURRENTLY</string>
+    <string name="masthead_motto">INDEPENDENT RSS EDITIONS • OFFLINE SYNC</string>
+    <string name="onboarding_title">Personalize Your Currently Library</string>
+    <string name="onboarding_subtitle">Select independent editions and add custom RSS feeds to build your personal news stream.</string>
+    <string name="onboarding_cta">Launch Currently</string>
+    <string name="add_custom_feed_label">Add Custom RSS or Atom URL</string>
+    <string name="add_custom_feed_hint">https://www.theguardian.com/world/rss</string>
+    <string name="summarize_article">Concise AI Digest</string>
+    <string name="daily_briefing_title">Currently AI Digest</string>
+    <string name="turn_page_prev">Previous Page</string>
+    <string name="turn_page_next">Next Page</string>
+    <string name="manage_feeds_title">RSS Subscriptions</string>
+    <string name="saved_clippings_title">Saved Clippings</string>
+</resources>
